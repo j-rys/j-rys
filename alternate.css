@@ -33,6 +33,11 @@ img:hover{
     transform: scale(1.5,1.5)
 }
 
+.rainbow{
+    background-image: repeating-linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    color: transparent;
+}
+
 .align-left{
     text-align: left;
 }

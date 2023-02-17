@@ -72,6 +72,7 @@ td{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
     border-style: solid;
+    border-color: black;
     background-image: url("BrooklynFlag.png");
     background-color: gray;
     height:fit-content;
@@ -88,6 +89,7 @@ td{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
     border-style: solid;
+    border-color: black;
     background-image: url("BronxFlag.png");
     background-color: gray;
     height:fit-content;
@@ -104,6 +106,7 @@ td{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
     border-style: solid;
+    border-color: black;
     background-image: url("ManhattanFlag.png");
     background-color: gray;
     height:fit-content;
@@ -120,6 +123,7 @@ td{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
     border-style: solid;
+    border-color: black;
     background-image: url("StatenFlag.png");
     background-color: gray;
     height:fit-content;
@@ -136,6 +140,7 @@ td{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
     border-style: solid;
+    border-color: black;
     background-image: url("QueensFlag.png");
     background-color: gray;
     height:fit-content;
