@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: grey;
     color:black;
 }
 
@@ -45,6 +45,22 @@ img{
     text-align: center;
 }
 
+.brooklyn{
+    text-align: center;
+    background-image: url("BronxFlag.png");
+}
+.bronx{
+    text-align: center;
+}
+.manhattan{
+    text-align: center;
+}
+.staten{
+    text-align: center;
+}
+.queens{
+    text-align: center;
+}
 
 
 
