@@ -78,6 +78,9 @@ img{
 .staten{
     text-align: center;
     border-style: solid;
+}
+.staten::before{
+    opacity: 25%;
     background-image: url("StatenFlag.png");
     background-color: gray;
     height:fit-content;
