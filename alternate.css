@@ -61,62 +61,33 @@ img:hover{
 
 .brooklyn{
     text-align: left;
-    color: white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
     border-style: dashed;
     border-color: aliceblue;
-    background-color: midnightblue;
+
 }
 .bronx{
     text-align: left;
-    color: white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
     border-style: dashed;
     border-color: aliceblue;
-    background-color: midnightblue;
+
 }
 .manhattan{
     text-align: left;
-    color: white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+    
     border-style: dashed;
     border-color: aliceblue;
-    background-color: midnightblue;
-}
+    background-color: midnightblue;}
 .staten{
     text-align: left;
-    color: white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
     border-style: dashed;
     border-color: aliceblue;
-    background-color: midnightblue;
+
 }
 .queens{
     text-align: left;
-    color: white;
-    text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+
     border-style: dashed;
     border-color: aliceblue;
-    background-color: midnightblue;
+
 }
 
