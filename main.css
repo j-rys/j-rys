@@ -47,7 +47,12 @@ img{
 
 .brooklyn{
     text-align: center;
+    border-style: solid;
     background-image: url("BronxFlag.png");
+    background-color: darkorange;
+    height:fit-content;
+    background-position: center;
+    background-size: cover;
 }
 .bronx{
     text-align: center;
