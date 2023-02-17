@@ -1,10 +1,10 @@
 body {
+    font-family: 'Courier New', Courier, monospace;
     background-color: grey;
     color:black;
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
     text-align: center;
 }
@@ -142,6 +142,13 @@ td{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.ref{
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+    background-color: gray;
 }
 
 
