@@ -21,7 +21,7 @@ nav{
     text-align: center;
 }
 
-button{
+button:hover{
     transform: rotate(360deg);
 }
 
