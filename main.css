@@ -48,23 +48,52 @@ img{
 .brooklyn{
     text-align: center;
     border-style: solid;
-    background-image: url("BronxFlag.png");
-    background-color: darkorange;
+    background-image: url("BrooklynFlag.png");
+    background-color: gray;
     height:fit-content;
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .bronx{
     text-align: center;
+    border-style: solid;
+    background-image: url("BronxFlag.png");
+    background-color: gray;
+    height:fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .manhattan{
     text-align: center;
+    border-style: solid;
+    background-image: url("ManhattanFlag.png");
+    background-color: gray;
+    height:fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .staten{
     text-align: center;
+    border-style: solid;
+    background-image: url("StatenFlag.png");
+    background-color: gray;
+    height:fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .queens{
     text-align: center;
+    border-style: solid;
+    background-image: url("QueensFlag.png");
+    background-color: gray;
+    height:fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
