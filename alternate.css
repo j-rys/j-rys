@@ -20,6 +20,7 @@ h3 {
 nav{
     text-align: center;
 }
-button{
-    align-items: right;
+.align-right{
+    text-align: right;
+    border: 0;
 }
