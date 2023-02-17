@@ -2,11 +2,30 @@
 <html lang="en">
 
 <head>
+    <link id="csslink" rel="stylesheet"type="text/css" href="main.css" title="main"/>
+    <link rel="alternate stylesheet" type="text/css" href="alternate.css" title="alternate"/>
+ 
+    <script>
+     function toggleCSS() {
+       // Obtains the <link> element that links to the css (by using its id).
+       var currentCSS = document.getElementById('csslink');
+ 
+       // Change the value of href attribute to change the css file.
+       if (currentCSS.getAttribute('href') == 'main.css') {
+         currentCSS.setAttribute('href', 'alternate.css');
+       } else {
+         currentCSS.setAttribute('href', 'main.css');
+       }
+     }
+     </script>
 <title>References</title>
 </head>
 
 <body>
 <h1>References and Resources</h1>
+<div class="align-right">
+    <button onclick="toggleCSS()">Dark Mode</button>
+</div>
 <p>
 If you want to learn more about New York City along with its other boroughs feel free to navigate to the <a href="https://www.nyc.gov/" target="_blank">Official Website for New York City </a>
 </p>
