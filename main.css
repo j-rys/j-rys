@@ -29,8 +29,18 @@ p{
 }
 
 img{
+    display: block;
     max-width: 10%;
     height: auto;
+    margin-left: auto;
+}
+
+table{
+    border: 2px solid;
+}
+
+td{
+    text-align: left;
 }
 
 .align-left{
