@@ -9,34 +9,14 @@ h1 {
     text-align: center;
 }
 
-.sub1{
+h2 {
     text-align: center;
 }
 
-.brooklyn{
-    text-align:center;
-
-}
-
-.bronx{
+h3 {
     text-align: center;
 }
 
-.manhattan{
+nav{
     text-align: center;
-}
-
-.staten{
-    text-align: center;
-}
-
-.queens{
-    text-align: center;
-}
-
-.navlist{
-    float: left;
-    display: block;
-    padding: 8px;
-    background-color: blueviolet;
 }
