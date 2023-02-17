@@ -37,10 +37,15 @@ img{
 
 table{
     border: 2px solid;
+    text-align: center;
 }
 
 td{
     text-align: left;
+}
+
+ol{
+    
 }
 
 .align-left{
@@ -88,9 +93,6 @@ td{
 .staten{
     text-align: center;
     border-style: solid;
-}
-.staten::before{
-    opacity: 25%;
     background-image: url("StatenFlag.png");
     background-color: gray;
     height:fit-content;
