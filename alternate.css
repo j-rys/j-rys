@@ -29,6 +29,10 @@ img{
     transform: scale(0.5,0.5);
 }
 
+img:hover{
+    transform: scale(1.5,1.5)
+}
+
 .align-left{
     text-align: left;
 }
