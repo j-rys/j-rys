@@ -21,6 +21,10 @@ nav{
     text-align: center;
 }
 
+p{
+    text-align: center;
+}
+
 .align-right{
     text-align: right;
 }
@@ -29,24 +33,6 @@ nav{
     text-align: center;
 }
 
-.sub1{
-    text-align: center;
-}
 
-.brooklyn{
-    text-align: center;
-}
-.bronx{
-    text-align: center;
-}
-.manhattan{
-    text-align: center;
-}
-.staten{
-    text-align: center;
-}
-.queens{
-    text-align: center;
-}
 
 
