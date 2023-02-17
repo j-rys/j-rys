@@ -22,7 +22,11 @@ nav{
 }
 
 button{
-    transform: translate(0px 500px 0px 0px);
+    transform: rotate(360deg);
+}
+
+img{
+    transform: scale(0.5,0.5);
 }
 
 .align-left{
